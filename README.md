@@ -1,13 +1,12 @@
-<h1 align="center">Hey 👋, I'm Godbless
-<h3 align="center">🚀 Learning, building, and growing every day</h3>
+<h1 align="center">Hey! I'm Godbless
+<h3 align="center">🚀 Learning, building, creating </h3>
 
 ---
 
-### 🧠 About Me
-- 💻 Currently learning **Python / C# / ML / Web / Telegram Bots**
-- 🎯 Goal: Become a Partner at McKinsey by 28  
-- 💰 Working to earn my first 1M RUB with Telegram & TikTok  
-- ⚡ Fun fact: I love building things and improving myself
+### 🧠 About me
+- I am beginner developer interested in Python, ML, and AI
+- My goal: i want to become a pro developer, learn C++, C# and JS
+- I never give up
 
 ---
 
