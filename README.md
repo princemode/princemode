@@ -12,4 +12,9 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,sqlite" />
 </p>
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![GitHub](https://img.shields.io/badge/GitHub-profile-black)
+![Beginner](https://img.shields.io/badge/Level-Beginner-orange)
+![AI](https://img.shields.io/badge/AI-ML-red)
+
 ---
