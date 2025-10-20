@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm <Godbless></h1>
+<h3 align="center">🚀 Learning, building, and growing every day</h3>
 
-<!--
-**princemode/princemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 💻 Currently learning **Python / C# / ML / Web / Telegram Bots**
+- 🎯 Goal: Become a Partner at McKinsey by 28  
+- 💰 Working to earn my first 1M RUB with Telegram & TikTok  
+- ⚡ Fun fact: I love building things and improving myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,react,git,github,docker,linux,sqlite,vscode,figma" />
+</p>
+
+---
