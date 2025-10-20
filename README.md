@@ -1,5 +1,7 @@
 <h1 align="center">I'm Godbless
-  
+
+![Cool GIF](https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif)
+
 ### 🧠 About me
 - I am beginner developer interested in Python, ML, and AI
 - My goal: i want to become a pro developer, learn C++, C# and JS
@@ -11,10 +13,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,sqlite" />
 </p>
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![GitHub](https://img.shields.io/badge/GitHub-profile-black)
-![Beginner](https://img.shields.io/badge/Level-Beginner-orange)
-![AI](https://img.shields.io/badge/AI-ML-red)
 
 ---
