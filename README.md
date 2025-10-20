@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,sqlite,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,sqlite" />
 </p>
 
 ---
