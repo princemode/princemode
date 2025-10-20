@@ -7,7 +7,8 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif" width="400" />
+<img src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif" width="1000" />
+
 
 ### 🛠️ Tech Stack
 <p align="center">
