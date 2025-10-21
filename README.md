@@ -12,6 +12,10 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,sqlite" />
 </p>
 
+## 📫 Contact
+- Telegram: [@yeahaegis](https://t.me/avvome)
+- Tiktok: [@yeahaegis](https://www.tiktok.com/@whatismystylebro)
+
 ---
 
 <img src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif" width="1000" />
