@@ -13,8 +13,8 @@
 </p>
 
 ## 📫 Contact
-- Telegram: [@yeahaegis](https://t.me/avvome)
-- Tiktok: [@yeahaegis](https://www.tiktok.com/@whatismystylebro)
+- Telegram: [@@avvome](https://t.me/avvome)
+- Tiktok: [whatismystylebro](https://www.tiktok.com/@whatismystylebro)
 
 ---
 
