@@ -2,7 +2,7 @@
 
 ### ☘️ About me
 - I am beginner developer interested in Python, ML, and AI
-- My goal: i want to become a pro developer, learn C++, C# and JS
+- My goal: i want to become a pro developer, learn C++, C# and JS, CSS, HTML
 - I never give up
 
 ---
