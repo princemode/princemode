@@ -1,6 +1,6 @@
 <h1 align="center">I'm Morales
 
-### 🧠 About me
+### ☘️ About me
 - I am beginner developer interested in Python, ML, and AI
 - My goal: i want to become a pro developer, learn C++, C# and JS
 - I never give up
