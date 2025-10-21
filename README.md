@@ -13,7 +13,7 @@
 </p>
 
 ## 📫 Contact
-- Telegram: [@@avvome](https://t.me/avvome)
+- Telegram: [avvome](https://t.me/avvome)
 - Tiktok: [whatismystylebro](https://www.tiktok.com/@whatismystylebro)
 
 ---
