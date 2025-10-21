@@ -1,4 +1,4 @@
-<h1 align="center">I'm Godbless
+<h1 align="center">I'm Morales
 
 ### 🧠 About me
 - I am beginner developer interested in Python, ML, and AI
